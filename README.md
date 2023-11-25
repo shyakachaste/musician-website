@@ -21,7 +21,7 @@ Welcome to the Element Musician Website repository! This project showcases the o
 - 📧 **Contact**: Connect with Element through the provided contact information.
 
 Demo
-Check out the live demo of the Element Musician Website <a href="https://eleeeh.netlify.app/" target="_blank">here.</a>
+Check out the live demo of the Element Musician Website <a href="https://eleeeh.netlify.app/" target= "_blank">here.</a>
 
 License
-This project is licensed under the MIT License - see the <a href="https://github.com/shyakachaste/musician-website/blob/main/LICENSE" target="_blank">LICENSE</a>file for details
+This project is licensed under the MIT License - see the <a href="https://github.com/shyakachaste/musician-website/blob/main/LICENSE" target= "_blank">LICENSE</a>file for details
