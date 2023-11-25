@@ -1,7 +1,10 @@
 # Element - Musician Website
 </br>
 
-![Element Logo](![eleeeh-logo](https://github.com/shyakachaste/musician-website/assets/121980393/88335548-6299-42cc-abf4-e17fa27cc82a))
+![Element Logo](
+![eleeeh-logo](https://github.com/shyakachaste/musician-website/assets/121980393/dfc071b0-f892-459b-8b4a-9cac27176d06)
+
+)
 
 Welcome to the Element Musician Website repository! This project showcases the online presence of the talented artist Element. The website is designed to provide fans and visitors with a seamless and immersive experience to explore Element's music, biography, and upcoming events.
 </br>
